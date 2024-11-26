@@ -1,0 +1,1 @@
+console.log("hyyy sometime i feel very bad when i realise your parents are dentist")
