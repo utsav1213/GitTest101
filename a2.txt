@@ -3,4 +3,4 @@ Q2) what are the type of version control?
 
 Local VCS: Tracks changes on a single machine (e.g., local file backups).
 Centralized VCS (CVCS): Stores files on a central server (e.g., SVN).
-Distributed VCS (DVCS): Each user has a full repository copy (e.g., Git
+Distributed VCS (DVCS): Each user has a full repository copy (e.g., Git)
