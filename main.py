@@ -1,1 +1,1 @@
-print("hello")
+print(f"a+b")
